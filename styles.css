@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-family: 'Dancing Script', cursive;
+    color: #1eae98;
+    font-size: 4em;
+}
+.paragraph {
+  font-size: 2em;
+  color: #1eae98;
+}
+.profile {
+  margin-bottom: 32px;
+}
+h2 {
+  margin-top: 16px;
+  font-family: 'Montserrat', sans-serif;
+  color: #1eae98;
+  line-height: 2;
+  margin-bottom: 16px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1eae98;
+}
+.top-container {
+  background-color: #e4efe7;
+  padding-top: 250px;
+  position: relative;
+}
+.middle-container {
+}
+.bottom-container {
+  margin-bottom: 19.2px;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 200px;
+  left: 300px;
+}
+.web {
+  width: 25%;
+  margin-top: 25px;
+}
+.skill-img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-img2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.messageme {
+    font-size: .8em;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    background: #45b29a;
+    padding: .75em 2em .75em 3.5em;
+    color: #1b7f69;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    text-transform: uppercase;
+}
+.email {
+    position: absolute;
+    height: 15px;
+    width: 24px;
+    left: 11%;
+    top: 30%;
+    background-image: url(https://fiand1996.github.io/assets/img/content/home/contact/mail.png);
+}
+.My-skills1 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+  margin-bottom: 120px;
+  text-align: left;
+  margin-top: 50px;
+}
+.My-skills2 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+  margin-bottom: 90px;
+  text-align: left;
+}
+.profile {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 6px;
+  width: 5%;
+}
+.contact-me {
+  width: 40%;
+  margin: auto;
+}
+.last-container {
+  background-color: #c5ded7;
+}
+.footer-link {
+  margin-bottom: 0;
+  color: #45b29a;
+}
